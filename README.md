@@ -51,10 +51,7 @@ CREATE TABLE position (
 2. Compiler et lancer l'application sur un émulateur ou un smartphone réel.
 
 ## 📱 Démonstration Vidéo
-Vous pouvez visionner la démonstration du fonctionnement de l'application (récupération GPS -> Envoi -> Stockage BDD) ci-dessous :
-
-> **[Lien vers la vidéo de démonstration]**
-*(Note : Ajoutez ici votre vidéo montrant l'application en train de fonctionner avec l'émulateur et la mise à jour dans phpMyAdmin)*
+https://github.com/ABDONOKRA/developementmobile-lab11-tp/issues/new
 
 ## ✅ Résultats Attendus
 - [x] Détection automatique de la position GPS.
