@@ -51,7 +51,7 @@ CREATE TABLE position (
 2. Compiler et lancer l'application sur un émulateur ou un smartphone réel.
 
 ## 📱 Démonstration Vidéo
-https://github.com/ABDONOKRA/developementmobile-lab11-tp/issues/new
+https://github.com/user-attachments/assets/530c419e-43a5-435f-b8c9-d3311a3f063e
 
 ## ✅ Résultats Attendus
 - [x] Détection automatique de la position GPS.
